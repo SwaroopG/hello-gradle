@@ -1,6 +1,6 @@
 hello-gradle
 ============
 
-Hello world project using Gradle.
-
 Check the wiki page for more details.
+
+Wiki: https://github.com/SwaroopG/hello-gradle/wiki
